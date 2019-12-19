@@ -1,0 +1,58 @@
+{
+    "name": "Seatwave",
+    "description": "Buy or Sell Tickets on Seatwave for all Concerts, Theatre & Sporting Events Seatwave | Official Ticketmaster Marketplace",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1144-seatwave.jpg",
+    "tags": [
+        "api united kingdom",
+        "have api",
+        "marketplaces",
+        "tickets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/seatwave\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Seatwave",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1144-seatwave.jpg",
+            "humanURL": "http:\/\/developer.seatwave.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seatwave-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/seatwaveblogs.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/seatwave"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/seatwave"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/seatwave"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/seatwave"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.seatwave.com\/"
+        }
+    ]
+}
